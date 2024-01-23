@@ -1,5 +1,7 @@
 # PyLite Customers
 
+<scr img= "PyLite.png">
+
 ## Description
 
 The PyLite Customers Project is a short simple Python Program which allows you to view, edit and delete rows from a basic database using sqllite. 
