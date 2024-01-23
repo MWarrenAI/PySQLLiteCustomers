@@ -4,7 +4,7 @@
 
 The PyLite Customers Project is a short simple Python Program which allows you to view, edit and delete rows from a basic database using sqllite. 
 This shall also recreate the data in order to show that not only is the data easy to store, but also maintain if something went wrong.
-Note: Your data will be stored locally.
+Note: Your data will be stored locally and is overwritten after each launch of the program.
 
 ## Sources
 
