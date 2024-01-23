@@ -1,6 +1,6 @@
 # PyLite Customers
 
-<scr img= "PyLite.png">
+<img scr= "PyLite.png">
 
 ## Description
 
